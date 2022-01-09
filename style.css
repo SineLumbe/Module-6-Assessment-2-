@@ -1,0 +1,149 @@
+.heading{
+    text-align: center;
+    font-size: 50px;
+    background-color: white;
+    border: 5px solid rgb(185, 180, 180);
+    color: green;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+.category-icon{
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 100px;
+    border: 2px solid palegreen;
+}
+
+.category-icon p{
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+    color: red;
+}
+
+.store-special{
+    display: inline-block;
+    margin-top: 90px;
+    margin-left: 50px;
+}
+
+.store-special p{
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+    color: red;
+    font-family: sans-serif;
+}
+
+h3{
+    text-align: center;
+}
+
+.button1{
+    background-color: powderblue;
+}
+
+.button2{
+    background-color: powderblue;
+    margin-right: 3px;
+}
+
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  
+
+  /*========SHOPS PAGE========*/
+
+.clothing{
+    width: 400px;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.clothing img{
+    width: 400px;
+    margin-left: 20px;
+}
+
+.clothing p{
+    text-align: center;
+    font-weight: bolder;
+}
+
+h2{
+    text-align: center;
+    margin-top: 100px;
+}
+
+i{
+    color: red;
+    border: 2px solid black;
+}
+
+
+/*==============WOOLWORTHS=============*/
+
+.w-black{
+    background-color: rgb(7, 6, 6);
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+.c-logo{
+    margin-left: 400px;
+    width: 200px;
+}
+
+
+p{
+    font-size: 15px;
+    font-family: sans-serif;
+    margin: 30px 30px 30px 30px;
+    text-align: left;
+    font-weight: 20px;
+}
+
+.form{
+    border: 5px solid powderblue;
+}
+
+input{
+    width: 90%;
+    margin-left: 10px;
+    padding: 12px;
+    margin-top: 3px;
+    background-color: rgb(223, 251, 255);
+}
+
+#subject{
+    width: 60%;
+    margin-left: 190px;
+    padding: 12px;
+    margin-top: 5px;  
+}
+
+.subject{
+    margin-top: 2px;
+}
+
+#submit{
+    width: 200px;
+    margin-left: 550px;
+    margin-bottom: 5px;
+}
